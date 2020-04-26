@@ -1,5 +1,0 @@
-Run Instructions:
-Run the python scripts in the folder in the following sequence
-1. URL Collector
-2. Data Collector
-3. Image Collector
