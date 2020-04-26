@@ -1,0 +1,7 @@
+# This flask app is used to test the Machine Learning model trained to classify into genres using the book cover
+
+# Run Instructions:
+# Before we run the app, we need to run the Scraping notebook to get the dataset, then we run the Training Notebook to get the model.
+# Save the 'model.h5' file in 'api/model' directory
+# Run app.py
+# Use postman to access '127.0.0.1:5000', we will post a request to this end point in the form of an image file, in response we get the prediction.
